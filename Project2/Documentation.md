@@ -6,4 +6,4 @@ Questions to be Answered
 - Should we increase our parking lot size?
 - What trends can we see in the data?
 
-![Dashboard](URL)
+![Dashboard](https://github.com/JOCRZ/Dash-Visualization_Projects/blob/main/Project2/Final_Dashboard.jpg)
